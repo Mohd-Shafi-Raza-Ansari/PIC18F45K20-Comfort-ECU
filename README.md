@@ -307,7 +307,7 @@ The repository contains both the source code and compiled firmware:
 Firmware/
 ├── main.c
 └── Comfort_ECU.production.hex
-
+```
 ---
 
 ## Repository Structure
