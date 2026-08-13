@@ -15,8 +15,6 @@ Door Monitoring • Seatbelt Warning • LCD Status Display
 
 [ LCD / WORKING ECU PHOTO ]
 
-### Live System Demonstration
-
 ![Live Comfort ECU Demonstration](Documentation/Comfort_ECU_Live_Demonstration.jpg)
 
 ### Circuit Schematic
