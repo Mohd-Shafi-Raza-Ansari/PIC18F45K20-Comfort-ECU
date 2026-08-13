@@ -173,7 +173,7 @@ Cooling mode activates:
 * HVAC blower
 * Seat cooling fan
 
-## The control system uses separate ON/OFF thresholds to provide hysteresis.
+The control system uses separate ON/OFF thresholds to provide hysteresis.
 
 ## 3. Automatic Lighting
 
@@ -184,7 +184,7 @@ The firmware uses two thresholds:
 * **ADC > 800** → Ambient light ON
 * **ADC > 600** → Automatic headlight ON
 
-## The lighting logic is implemented through the ADC reading from AN0.
+The lighting logic is implemented through the ADC reading from AN0.
 
 ## 4. Door Status
 
