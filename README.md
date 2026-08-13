@@ -1,5 +1,29 @@
 # PIC18F45K20 Automotive Comfort ECU
 
+> An embedded automotive Comfort ECU integrating multiple vehicle comfort and convenience functions using the PIC18F45K20 microcontroller.
+
+## Project Preview
+
+![Physical Comfort ECU Prototype](Documentation/Comfort_ECU_Physical_Prototype.jpg)
+
+**Key functions:**
+
+Power Windows • HVAC • Seat Heating/Cooling • Automatic Lighting  
+Door Monitoring • Seatbelt Warning • LCD Status Display
+
+## Live Demonstration
+
+[ LCD / WORKING ECU PHOTO ]
+
+### Live System Demonstration
+
+![Live Comfort ECU Demonstration](Documentation/Comfort_ECU_Live_Demonstration.jpg)
+
+### Circuit Schematic
+
+![PIC18F45K20 Comfort ECU Schematic](Documentation/Comfort_ECU_Schematic.svg)
+
+
 ## Project Overview
 
 This project presents an embedded automotive **Comfort Electronic Control Unit (ECU)** developed using the **PIC18F45K20 microcontroller**.
