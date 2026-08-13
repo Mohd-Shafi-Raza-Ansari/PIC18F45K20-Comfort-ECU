@@ -279,20 +279,34 @@ The main loop continuously reads the sensors, executes the individual control fu
 
 ## Proteus Simulation
 
-The Proteus simulation is provided in the `Proteus` folder.
+The Proteus simulation is provided in the `Proteus` folder, while the compiled firmware HEX file is provided in the `Firmware` folder.
+
+### Running the Simulation
+
+1. Open the Proteus project:
+
+   `Proteus/Comfort ECU Design Ver 3.0.pdsprj`
+
+2. Open the **PIC18F45K20** microcontroller properties.
+
+3. Set the **Program File** to:
+
+   `Firmware/Comfort_ECU.production.hex`
+
+4. Confirm the microcontroller clock configuration.
+
+5. Start the Proteus simulation.
+
+6. Operate the switches and sensor inputs to observe the corresponding ECU outputs.
+
+### Firmware
+
+The repository contains both the source code and compiled firmware:
 
 ```text
-Proteus/
-└── Comfort ECU Design Ver 3.0.pdsprj
-```
-
-To inspect the simulation:
-
-1. Open the Proteus project.
-2. Open the schematic.
-3. Load/run the simulation.
-4. Operate the switches and sensor inputs.
-5. Observe the corresponding actuator and LCD responses.
+Firmware/
+├── main.c
+└── Comfort_ECU.production.hex
 
 ---
 
