@@ -4,16 +4,15 @@
 
 ## Project Preview
 
+### Physical Prototype
+
 ![Physical Comfort ECU Prototype](Documentation/Comfort_ECU_Physical_Prototype.jpg)
 
-**Key functions:**
+### Key Functions
 
-Power Windows • HVAC • Seat Heating/Cooling • Automatic Lighting  
-Door Monitoring • Seatbelt Warning • LCD Status Display
+Power Windows • HVAC • Seat Heating/Cooling • Automatic Lighting • Door Monitoring • Seatbelt Warning • LCD Status Display
 
-## Live Demonstration
-
-[ LCD / WORKING ECU PHOTO ]
+### Live Demonstration
 
 ![Live Comfort ECU Demonstration](Documentation/Comfort_ECU_Live_Demonstration.jpg)
 
