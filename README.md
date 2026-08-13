@@ -210,7 +210,7 @@ Each status is displayed for approximately **2 seconds** before the next status 
 
 The complete Proteus circuit is shown below.
 
-![PIC18F45K20 Comfort ECU Schematic](<Documentation/Comfort ECU Design.SVG>)
+![PIC18F45K20 Comfort ECU Schematic](<Documentation/Comfort_ECU_Schematic.svg>)
 
 The schematic shows the PIC18F45K20 connected to the sensors, switches, LCD, motor driver, actuators and status indicators.
 
