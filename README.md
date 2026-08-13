@@ -6,7 +6,7 @@
 
 ### Physical Prototype
 
-![Physical Comfort ECU Prototype](Documentation/Comfort_ECU_Physical_Prototype.jpg)
+![Physical Comfort ECU Prototype](Documentation/Comfort_ECU_Physical_Prototype.jpeg)
 
 ### Key Functions
 
@@ -14,7 +14,7 @@ Power Windows • HVAC • Seat Heating/Cooling • Automatic Lighting • Door 
 
 ### Live Demonstration
 
-![Live Comfort ECU Demonstration](Documentation/Comfort_ECU_Live_Demonstration.jpg)
+![Live Comfort ECU Demonstration](Documentation/Comfort_ECU_Live_Demonstration.jpeg)
 
 ### Circuit Schematic
 
